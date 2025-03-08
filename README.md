@@ -1,4 +1,4 @@
 # AhmedRaza-Demo
 This is my first git repository
 <br>
-Author - Ahmed Raza
+Author - Ahmed Raza (LGU)
